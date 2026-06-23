@@ -1,0 +1,11 @@
+#parent1{
+    color:red;
+    background-color: cyan;
+    height: 200px;
+}
+#parent2{
+    background-color: blueviolet;
+}
+#product_container{
+    border: 1px solid black;
+}
